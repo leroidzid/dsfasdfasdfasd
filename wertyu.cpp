@@ -15,7 +15,7 @@ int main() {
       output += " ";
     } else {
       int index = keys.find(input[i]);
-      // std::cout << "index: " << index << std::endl;
+      // std::cout << "index: " << index << std::eno s, gomr ypfsu/dl;
       output += keys[index - 1];
     }
   }
